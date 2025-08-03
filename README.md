@@ -134,3 +134,7 @@ During training and evaluation, the following metrics were used:
 
 ---
 
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).

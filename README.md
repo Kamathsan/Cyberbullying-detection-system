@@ -41,19 +41,24 @@ Cyberbullying-Detection-System/
    git clone https://github.com/your-username/Cyberbullying-Detection-System.git
    cd Cyberbullying-Detection-System
    ```
-
-2. **Set up a virtual environment (optional but recommended)**
+2. **Download Bert.hdfs dataset **
+   ```bash
+   Use the following link to download the folder containing config.json and Dataset file:
+   https://drive.google.com/drive/folders/1_zAqmicvePnifjnF9gMIL9ukIdvSpmCq?usp=sharing
+   ```
+   
+3. **Set up a virtual environment (optional but recommended)**
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-3. **Install required packages**
+4. **Install required packages**
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Download or place the fine-tuned model**
+5. **Download or place the fine-tuned model**
    Ensure `Bert.hdfs` (your fine-tuned model folder) is in the root directory.
 
 ---

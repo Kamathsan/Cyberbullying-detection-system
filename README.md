@@ -19,6 +19,8 @@ A BERT-powered machine learning application to detect and classify different typ
 - 🌐 RESTful API using Flask + CORS
 
 ---
+Vedio clip: https://drive.google.com/file/d/10EClEcnjNKQnKmk3yfiKjlAAaO9sGp4P/view?usp=sharing
+---
 
 ## 📂 Project Structure
 
